@@ -1,0 +1,54 @@
+.app-container {
+  background-color: #161625;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.app-width-container {
+  width: 90%;
+  max-width: 1100px;
+}
+.cowin-logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo-img {
+  width: 30px;
+  margin-right: 5px;
+}
+.logo-text {
+  color: #2cc6c6;
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.main-heading {
+  color: #cbd5e1;
+  font-size: 20px;
+  font-weight: bold;
+}
+.loading-container {
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.falure-view-contianer {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.failure-img {
+  width: 70%;
+  max-width: 450px;
+}
+.failure-heading {
+  color: #cbd5e1;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Bree Serif';
+}

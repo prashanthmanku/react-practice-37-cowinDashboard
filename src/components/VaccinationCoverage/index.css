@@ -1,0 +1,12 @@
+.vaccination-card {
+  background-color: #1c1c2b;
+  padding: 30px 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.card-heading {
+  color: #94a3b8;
+  font-size: 20px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
